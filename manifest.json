@@ -1,0 +1,13 @@
+{
+    "name": "2048",
+    "icons": [
+      {
+        "src": "icons/152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }
+    ],
+    "start_url": "https://ramonsnir.github.io/2048/",
+    "display": "standalone"
+  }
+  
